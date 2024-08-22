@@ -1,4 +1,8 @@
-## Hi there 👋
+### CompEng @ UM###
+
+extensive focus on EECS, Robotics, Machine Learning, Optimization
+</br>
+exploring human existence through computation
 
 <!--
 **lepkinh/lepkinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
