@@ -1,8 +1,8 @@
-extensive focus on EECS, Robotics, Machine Learning, Optimization
+## exploring human existence through computation
+
+extensive focus on EECS, Robotics, Machine Learning, Optimization.
 </br>
-exploring human existence through computation
-</br>
-ex UW math & CS, transfer to UM CompEng major
+ex UW math & CS, transferred to UM CompEng major.
 </br>
 anti-guru
 
