@@ -1,10 +1,8 @@
 ## exploring human existence through computation
 
-extensive focus on EECS, Robotics, Machine Learning, Optimization.
+extensive focus on EECS, robotics, ML, optimization.
 </br>
-ex UW math & CS, transferred to UM CompEng major.
-</br>
-anti-guru
+current UM CompEng, ex UW math & CS.
 
 <!--
 **lepkinh/lepkinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
