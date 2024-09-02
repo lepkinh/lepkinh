@@ -1,8 +1,6 @@
 ## exploring human existence through computation
 
-extensive focus on EECS, robotics, ML, optimization.
-</br>
-current UM CompEng, ex UW math & CS.
+learning software, ML, EE, robotics
 
 <!--
 **lepkinh/lepkinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
