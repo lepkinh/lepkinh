@@ -1,6 +1,6 @@
-## exploring human existence through computation
+### learning software, ML, EE, robotics
 
-learning software, ML, EE, robotics
+good things come with patience...
 
 <!--
 **lepkinh/lepkinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
